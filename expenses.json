@@ -1,0 +1,30 @@
+{
+    "initial_balance": 5500.0,
+    "current_balance": 3880.0,
+    "transactions": [
+        {
+            "date": "2026-02-04 00:57:30",
+            "amount": 500.0,
+            "category": "Other",
+            "description": "Cigar"
+        },
+        {
+            "date": "2026-02-04 00:58:26",
+            "amount": 600.0,
+            "category": "Food",
+            "description": "Cafe"
+        },
+        {
+            "date": "2026-02-04 00:58:38",
+            "amount": 320.0,
+            "category": "Utilities",
+            "description": "Petrol"
+        },
+        {
+            "date": "2026-02-04 00:58:58",
+            "amount": 200.0,
+            "category": "Utilities",
+            "description": "Diesel"
+        }
+    ]
+}
